@@ -109,3 +109,21 @@ code {
   padding: 4px 8px;
   background: var(--code-bg);
 }
+
+.masuk {
+  background-color: hsl(133, 86%, 42%);
+  color: rgb(234, 236, 234);
+  border-radius: 5px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.belumMasuk {
+  background-color: hsl(0, 64%, 46%);
+  color: rgb(234, 236, 234);
+  border-radius: 5px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
